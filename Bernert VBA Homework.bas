@@ -9,8 +9,8 @@ Sub homework_()
         ws.Range("I1").Value = "Ticker"
         ws.Range("J1").Value = "Year Open Price"
         ws.Range("K1").Value = "Year Close Price"
-        ws.Range("L1").Value = "Change Price Per share"
-        ws.Range("M1").Value = "Change percent"
+        ws.Range("L1").Value = "Annual Delta"
+        ws.Range("M1").Value = "Delta Pct"
         ws.Range("N1").Value = "Total Volume"
 
         'Create dimensions
@@ -106,7 +106,7 @@ Sub homework_()
         ws.Range("Q1").Value = "Ticker"
         ws.Range("R1").Value = "Value"
         ws.Range("P2").Value = "Max % Gain"
-        ws.Range("P3").Value = "Max% Loss"
+        ws.Range("P3").Value = "Max % Loss"
         ws.Range("P4").Value = "Max Volume"
         
         'Populate values
