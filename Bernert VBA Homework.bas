@@ -1,4 +1,4 @@
-Attribute VB_Name = "Module4"
+Attribute VB_Name = "bernert_hw_module"
 'Initialize module
 Sub homework_()
 
